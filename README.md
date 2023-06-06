@@ -1,2 +1,2 @@
 # eventbasedmonitoring
-using riemann for event based monitoring and notification
+Using [riemann](https://riemann.io) for event based monitoring and notifications.
